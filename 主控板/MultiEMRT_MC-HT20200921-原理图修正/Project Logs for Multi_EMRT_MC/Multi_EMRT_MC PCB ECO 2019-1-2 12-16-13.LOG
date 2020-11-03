@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=UDIIN Pin=U9-87
+Removed Pin From Net: NetName=M7BZO Pin=U9-90
+Removed Pin From Net: NetName=M2BZO Pin=U9-92
+Removed Pin From Net: NetName=M2BOO Pin=U9-93
+Removed Pin From Net: NetName=M5BOO Pin=U9-94
+Removed Pin From Net: NetName=M7BOO Pin=U9-95
+Added Pin To Net: NetName=M2BZO Pin=U9-87
+Added Pin To Net: NetName=M2BOO Pin=U9-90
+Added Pin To Net: NetName=M5BOO Pin=U9-92
+Added Pin To Net: NetName=M7BZO Pin=U9-93
+Added Pin To Net: NetName=M7BOO Pin=U9-94
+Added Pin To Net: NetName=UDIIN Pin=U9-95

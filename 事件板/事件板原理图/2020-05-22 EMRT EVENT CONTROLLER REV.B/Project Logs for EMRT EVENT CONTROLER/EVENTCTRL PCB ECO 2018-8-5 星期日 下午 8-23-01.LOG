@@ -1,0 +1,4 @@
+Added Component: Designator=R11(R0805)
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Member To Class: ClassName=U_EVENTCTRL_ACQ Member=Component R11 R0805

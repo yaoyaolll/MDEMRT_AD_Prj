@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR134_2 Pin=R147-2
+Removed Pin From Net: NetName=NetC111_2 Pin=R148-2
+Removed Pin From Net: NetName=NetC112_2 Pin=R149-2
+Removed Member From Class: ClassName=U_EVENTCTRL_DSP Member=R148
+Removed Member From Class: ClassName=U_EVENTCTRL_DSP Member=R149
+Added Pin To Net: NetName=NetC111_2 Pin=R147-1
+Added Pin To Net: NetName=NetR134_1 Pin=R147-2
+Added Pin To Net: NetName=NetC112_2 Pin=U16-76
+Added Pin To Net: NetName=NetC111_2 Pin=U16-77

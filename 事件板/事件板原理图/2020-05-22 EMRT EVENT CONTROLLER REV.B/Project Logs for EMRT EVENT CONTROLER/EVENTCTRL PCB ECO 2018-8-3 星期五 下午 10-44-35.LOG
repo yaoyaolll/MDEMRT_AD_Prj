@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=U_EVENTCTRL_CAL Member=R42
+Removed Member From Class: ClassName=U_EVENTCTRL_CAL Member=R43
+Removed Member From Class: ClassName=U_EVENTCTRL_CAL Member=R44
+Added Component: Designator=U9(SO-8)
+Added Pin To Net: NetName=NetR28_1 Pin=U9-1
+Added Pin To Net: NetName=VREF Pin=U9-2
+Added Pin To Net: NetName=A_5V_P Pin=U9-3
+Added Pin To Net: NetName=NetR28_2 Pin=U9-4
+Added Pin To Net: NetName=NetR39_1 Pin=U9-5
+Added Pin To Net: NetName=A_5V_N Pin=U9-6
+Added Pin To Net: NetName=NetR41_2 Pin=U9-8
+Added Member To Class: ClassName=U_EVENTCTRL_ACQ Member=Component U9 SF207-FP08

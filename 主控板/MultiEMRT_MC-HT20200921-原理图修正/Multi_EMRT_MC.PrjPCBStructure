@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Communication_Main.SchDoc
+Record=SheetSymbol|SourceDocument=Communication_Main.SchDoc|Designator=U_ADC|SchDesignator=U_ADC|FileName=ADC.SchDoc|SymbolType=Normal|RawFileName=ADC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Communication_Main.SchDoc|Designator=U_Assistant_Parameters|SchDesignator=U_Assistant_Parameters|FileName=Assistant_Parameters.SchDoc|SymbolType=Normal|RawFileName=Assistant_Parameters.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Communication_Main.SchDoc|Designator=U_DSP_R|SchDesignator=U_DSP_R|FileName=DSP_R.SchDoc|SymbolType=Normal|RawFileName=DSP_R.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Communication_Main.SchDoc|Designator=U_FPGA_R|SchDesignator=U_FPGA_R|FileName=FPGA_R.SchDoc|SymbolType=Normal|RawFileName=FPGA_R.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C135 Old Footprint=0805 New Footprint=1206
+Change Component Comment : Designator=C135 Old Comment=C0805 New Comment=C1206
+Added Component: Designator=R147(R0805)
+Added Component: Designator=R148(R0805)
+Added Component: Designator=R149(R0805)
+Added Pin To Net: NetName=NetR134_2 Pin=R147-2
+Added Pin To Net: NetName=NetC111_2 Pin=R148-2
+Added Pin To Net: NetName=NetC112_2 Pin=R149-2
+Added Pin To Net: NetName=NetR147_1 Pin=R147-1
+Added Pin To Net: NetName=NetR147_1 Pin=R148-1
+Added Pin To Net: NetName=NetR147_1 Pin=U16-77
+Added Net: Name=NetR147_1
+Added Pin To Net: NetName=NetR149_1 Pin=R149-1
+Added Pin To Net: NetName=NetR149_1 Pin=U16-76
+Added Net: Name=NetR149_1
+Added Member To Class: ClassName=U_EVENTCTRL_DSP Member=Component R147 R0805
+Added Member To Class: ClassName=U_EVENTCTRL_DSP Member=Component R148 R0805
+Added Member To Class: ClassName=U_EVENTCTRL_DSP Member=Component R149 R0805

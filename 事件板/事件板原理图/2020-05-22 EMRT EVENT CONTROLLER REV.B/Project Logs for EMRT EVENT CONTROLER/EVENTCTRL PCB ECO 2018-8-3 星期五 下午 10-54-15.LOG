@@ -1,0 +1,9 @@
+Added Component: Designator=U31(HDR2X5)
+Added Pin To Net: NetName=NetR163_2 Pin=U31-1
+Added Pin To Net: NetName=NetU20_91 Pin=U31-2
+Added Pin To Net: NetName=NetU20_90 Pin=U31-4
+Added Pin To Net: NetName=GND Pin=U31-5
+Added Pin To Net: NetName=NetU20_92 Pin=U31-7
+Added Pin To Net: NetName=D_3V3 Pin=U31-9
+Added Pin To Net: NetName=D_3V3 Pin=U31-10
+Added Member To Class: ClassName=U_EVENTCTRL_ACQ Member=Component U31 LM95172EWG/NOPB-CFP10

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=-A_5V Pin=U18-4
+Added Pin To Net: NetName=A_5V Pin=U18-8
+Added Pin To Net: NetName=-A_5V Pin=U24-4
+Added Pin To Net: NetName=A_5V Pin=U24-8

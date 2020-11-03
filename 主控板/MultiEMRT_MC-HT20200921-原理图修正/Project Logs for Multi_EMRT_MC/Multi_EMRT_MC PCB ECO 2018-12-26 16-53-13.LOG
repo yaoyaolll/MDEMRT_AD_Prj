@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DGND Pin=R12-1
+Removed Pin From Net: NetName=NetR12_2 Pin=R12-2
+Removed Pin From Net: NetName=D_3V3 Pin=R15-1
+Removed Pin From Net: NetName=NetR15_2 Pin=R15-2
+Added Component: Designator=R12(RESS0805)
+Added Component: Designator=R15(RESS0805)
+Added Pin To Net: NetName=DGND Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=D_3V3 Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2

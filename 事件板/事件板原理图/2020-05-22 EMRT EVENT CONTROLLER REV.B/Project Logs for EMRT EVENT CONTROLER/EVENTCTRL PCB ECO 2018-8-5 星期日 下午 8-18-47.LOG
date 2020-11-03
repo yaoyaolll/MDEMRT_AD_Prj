@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC86_1 Pin=C88-1
+Removed Pin From Net: NetName=NetC86_1 Pin=R78-2
+Removed Pin From Net: NetName=GND Pin=U1-V_5
+Removed Pin From Net: NetName=GND Pin=U1-V_6
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U2-V_2
+Removed Pin From Net: NetName=GND Pin=U2-V_3
+Removed Pin From Net: NetName=GND Pin=U2-V_4
+Removed Pin From Net: NetName=GND Pin=U2-V_5
+Removed Pin From Net: NetName=GND Pin=U2-V_6
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U3-V_2
+Removed Pin From Net: NetName=GND Pin=U3-V_3
+Removed Pin From Net: NetName=GND Pin=U3-V_4
+Removed Pin From Net: NetName=GND Pin=U3-V_5
+Removed Pin From Net: NetName=GND Pin=U3-V_6
+Removed Pin From Net: NetName=GND Pin=U3-V
+Added Pin To Net: NetName=NetC88_1 Pin=C88-1
+Added Pin To Net: NetName=NetC88_1 Pin=R78-2
+Added Net: Name=NetC88_1

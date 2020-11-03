@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetC86_1 Pin=VREF1-1
+Added Pin To Net: NetName=NetC86_1 Pin=C88-1
+Added Pin To Net: NetName=NetC86_1 Pin=R78-2
