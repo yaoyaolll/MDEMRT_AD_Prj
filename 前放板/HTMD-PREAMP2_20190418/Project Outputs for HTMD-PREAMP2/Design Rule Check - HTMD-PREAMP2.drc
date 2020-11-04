@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\M201972715\2020\20201028调整\前放板\HTMD-PREAMP2_20190418\HTMD-PREAMP2.PcbDoc
-Date     : 2020/11/2
-Time     : 15:46:41
+PCB File : C:\Users\Administrator\Desktop\20201104调整完成\前放板\HTMD-PREAMP2_20190418\HTMD-PREAMP2.PcbDoc
+Date     : 2020/11/4
+Time     : 15:42:53
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -12,10 +12,10 @@ Rule Violations :0
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=1.016mm) (InNet('+5D')OR InNet('+5V')OR InNet('-5V')OR InNet('+8V')OR InNet('-8V'))
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=1.016mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=1.016mm) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=1.016mm) (InNet('+5D')OR InNet('+5V')OR InNet('-5V')OR InNet('+8V')OR InNet('-8V'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)

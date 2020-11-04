@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\M201972715\2020\20201028调整\主控板\MultiEMRT_MC-HT20200921-原理图修正\Multi_EMRT_MC.PcbDoc
-Date     : 2020/11/2
-Time     : 15:46:31
+PCB File : C:\Users\Administrator\Desktop\20201104调整完成\主控板\MultiEMRT_MC-HT20200921-原理图修正\Multi_EMRT_MC.PcbDoc
+Date     : 2020/11/4
+Time     : 15:43:14
 
 Processing Rule : Clearance Constraint (Gap=8mil) (InPolygon),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:12
