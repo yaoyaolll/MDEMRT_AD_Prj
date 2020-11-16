@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TEMP2R Pin=J2-9
+Removed Pin From Net: NetName=HSRTDR Pin=J2-28
+Added Pin To Net: NetName=HSRTDR Pin=J2-9
+Added Pin To Net: NetName=TEMP2R Pin=J2-28
+Change Net Name : Old Net Name=TEMP2R New Net Name=MARTDR
+Added Member To Class: ClassName=U_Assistant_Parameters Member=Component C100 Cap

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: HTMD-PREAMP2.GBR   2020/11/16  10:44:54
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GP1                GND1                                    
+.G1                 S2                                      
+.GP2                POWER1                                  
+.GP3                GND2                                    
+.G2                 S3                                      
+.GP4                POWER2                                  
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------

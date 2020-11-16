@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=S2 Pin=U4-109
-Removed Pin From Net: NetName=NetCTRL_SW1_1 Pin=U4-124
-Added Pin To Net: NetName=NetCTRL_SW1_1 Pin=U4-94
-Added Pin To Net: NetName=S2 Pin=U4-95

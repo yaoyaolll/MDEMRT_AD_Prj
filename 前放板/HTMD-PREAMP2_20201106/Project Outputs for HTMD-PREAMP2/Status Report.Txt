@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [HTMD-PREAMP2.PrjPcb]
+   Generated File[HTMD-PREAMP2.GTL]
+   Generated File[HTMD-PREAMP2.GP1]
+   Generated File[HTMD-PREAMP2.G1]
+   Generated File[HTMD-PREAMP2.GP2]
+   Generated File[HTMD-PREAMP2.GP3]
+   Generated File[HTMD-PREAMP2.G2]
+   Generated File[HTMD-PREAMP2.GP4]
+   Generated File[HTMD-PREAMP2.GBL]
+   Generated File[HTMD-PREAMP2.GPB]
+   Generated File[HTMD-PREAMP2.GPT]
+   Generated File[HTMD-PREAMP2.GTO]
+   Generated File[HTMD-PREAMP2.GTP]
+   Generated File[HTMD-PREAMP2.GTS]
+   Generated File[HTMD-PREAMP2.GBS]
+   Generated File[HTMD-PREAMP2.GBP]
+   Generated File[HTMD-PREAMP2.GBO]
+   Generated File[HTMD-PREAMP2.GKO]
+   Generated File[HTMD-PREAMP2.GM1]
+   Generated File[HTMD-PREAMP2.GM15]
+   Generated File[HTMD-PREAMP2.RUL]
+   Generated File[HTMD-PREAMP2.EXTREP]
+   Generated File[HTMD-PREAMP2.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 10:44:57 On 2020/11/16

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\HT_EMRT-20180807 - 01\Multi_EMRT_MC.PcbDoc
+Date         : 2018/8/7
+Time         : 18:28:02
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 908
+    Connections routed, 908
+    Connections remaining, 0
+count : 4
